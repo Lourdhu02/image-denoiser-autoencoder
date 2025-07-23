@@ -69,7 +69,7 @@ pip install -r requirements.txt
 **Lourdhu Raju**
 Available for AI/ML Developer roles
 
-* [LinkedIn](https://linkedin.com/in/LourdhuRaju)
+* [LinkedIn](https://linkedin.com/in/Lourdhu)
 * [GitHub](https://github.com/Lourdhu02)
 
 ---
